@@ -1,0 +1,7 @@
+# exclude build and log folders
+# build folders are unique
+**build/
+**log/
+
+# exclude vscode folder
+**.vscode/
